@@ -1,7 +1,4 @@
-import 'package:demo_flutter_app/pages/secondPage.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-
 import 'flarePage.dart';
 
 class FirstScreen extends StatelessWidget {
